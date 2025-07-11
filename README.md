@@ -1,6 +1,3 @@
-# cpap-smartphone-device
-Low-cost CPAP system using sensors, Arduino, and smartphone app to detect and respond to sleep apnea
-
 # CPAP System Using Smartphone Integration
 
 This project presents the design and development of a **Continuous Positive Airway Pressure (CPAP)** device using Arduino, sensors, and a smartphone application for sleep apnea detection and management. It is a low-cost, portable, and non-invasive alternative to commercial CPAP machines.
